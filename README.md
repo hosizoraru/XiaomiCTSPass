@@ -58,7 +58,7 @@
 | 小米8 SE | sirius | Android 8.1 | Android 10 | × |
 | 小米6 | sagit | Android 7.1 | Android 9 | × |
 | 小米5 | gmini | Android 6 | Android 8 | × |
-| 小米平板5 Pro WiFi | elish | Android 11 | Android 11 | √ |
+| 小米平板5 Pro WiFi | elish | Android 11 | Android 12 | √ |
 | 小米平板5 Pro | enuma | Android 11 | Android 11 | √ |
 | 小米平板5 | nabu | Android 11 | Android 11 | √ |
 | 小米平板4 | clover | Android 8.1 | Android 8.1 | × |
