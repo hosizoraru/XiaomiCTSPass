@@ -26,7 +26,7 @@
 | 机型 | 内部代号 | 最低安卓版本 | 最高安卓版本 | 官方维护状态 |
 | :----: | :----: | :----: | :----: | :----: |
 | 小米 MIX Fold | cetus | Android 11 | Android 11 | √ |
-| 小米 MIX4 | odin | Android 11 | Android 12 | √ |
+| 小米 MIX4 | odin | Android 11 | Android 13 | √ |
 | 小米 MIX3 | perseus | Android 9 | Android 10 | × |
 | 小米 MIX2 | chiron | Android 7.1 | Android 9 | × |
 | 小米 MIX2S | polaris | Android 9 | Android 10 | × |
@@ -66,7 +66,7 @@
 | Redmi K50 Pro | matisse | Android 12 | Android 12 | √ |
 | Redmi K50 电竞版 | ingres | Android 12 | Android 12 | √ |
 | Redmi K50 Ultra | diting | Android 12 | Android 12 | √ |
-| Redmi K40 | alioth | Android 11 | Android 12 | √ |
+| Redmi K40 | alioth | Android 11 | Android 13 | √ |
 | Redmi K40S | munch | Android 12 | Android 12 | √ |
 | Redmi K40 Pro/Plus | haydn | Android 11 | Android 12 | √ |
 | Redmi K40 游戏增强版 | ares | Android 11 | Android 12 | √ |
